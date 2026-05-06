@@ -1,0 +1,6 @@
+A progress bar for mobile and desktop screens that increases depending on how much
+ of the whole page has been scrolled. © RAWcode55 2025–2026
+
+Selectors for styling: #progressFill_RAW and #progressBg_RAW
+
+Add at least a background-color in CSS to these elements to make them visible for the user!
